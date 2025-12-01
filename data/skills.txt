@@ -1,0 +1,23 @@
+python
+tensorflow
+pytorch
+machine learning
+data analysis
+sql
+deep learning
+nlp
+flask
+streamlit
+django
+java
+c++
+javascript
+html
+css
+data visualization
+pandas
+numpy
+opencv
+power bi
+tableau
+ai
